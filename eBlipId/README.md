@@ -93,9 +93,9 @@
 | BLIP_MP_DEFEND | ![allblips-232](https://imgur.com/bPEzulc.png) | BLIP_BAGCAPS | ![allblips-233](https://imgur.com/ZJA5A1M.png) | BLIP_MPK_ASSIST | ![allblips-234](https://imgur.com/vGylBYI.png) |
 | BLIP_MPK_REVENGE_2 | ![allblips-235](https://imgur.com/aU7a39p.png) | BLIP_MP_KILLSTREAK | ![allblips-236](https://imgur.com/Pws6m6H.png) | BLIP_MPK_PWHIP | ![allblips-237](https://imgur.com/px8x8rE.png) |
 | BLIP_VGO | ![allblips-238](https://imgur.com/vHD9dkl.png) | BLIP_VSKIP | ![allblips-239](https://imgur.com/IUvIXCq.png) | BLIP_VRE | ![allblips-240](https://imgur.com/xRNph8b.png) |
-| BLIP_ROCKSTAR | ![allblips-241](https://imgur.com/NAELsGu.png) | BLIP_ENVELOPE | ![allblips-242](https://imgur.com/xJMDEy8.png) | BLIP_TOWN_UNDERATTACK | ![allblips-243](https://imgur.com/cJuwOHd.png) |
-| BLIP_TOWN_UNKNOWN | ![allblips-244](https://imgur.com/bLpr0p6.png) | LIP_TOWN_SAFE | ![allblips-245](https://imgur.com/1aqsg0y.png) | BLIP_RED_X | ![allblips-246](https://imgur.com/8oZAbhx.png) |
-| BLIP_B_QUESTION_MARK | ![allblips-247](https://imgur.com/Aef0M0t.png) | BLIP_NORTHARROW | ![northarrow](https://imgur.com/E320dXy.png) | BLIP_WAYPOINT | ![radar_waypoint](https://imgur.com/zJzPdAv.png) |
+| BLIP_ROCKSTAR | ![allblips-241](https://imgur.com/NAELsGu.png) | BLIP_ENVELOPE | ![allblips-242](https://imgur.com/xJMDEy8.png) | BLIP_TOWN_UNDERATTACK_RED | ![allblips-243](https://imgur.com/cJuwOHd.png) |
+| BLIP_TOWN_UNDERATTACK_GREEN | ![allblips-244](https://imgur.com/bLpr0p6.png) | BLIP_TOWN_SAFE | ![allblips-245](https://imgur.com/1aqsg0y.png) | BLIP_RED_X | ![allblips-246](https://imgur.com/8oZAbhx.png) |
+| BLIP_TOWN_UNKNOWN | ![allblips-247](https://imgur.com/Aef0M0t.png) | BLIP_NORTHARROW | ![northarrow](https://imgur.com/E320dXy.png) | BLIP_WAYPOINT | ![radar_waypoint](https://imgur.com/zJzPdAv.png) |
 
 ## Enum
 
@@ -365,11 +365,11 @@ enum eBlipId
 	BLIP_VRE,
 	BLIP_ROCKSTAR,
 	BLIP_ENVELOPE,
-	BLIP_TOWN_UNDERATTACK,
-	BLIP_TOWN_UNKNOWN,
+	BLIP_TOWN_UNDERATTACK_RED,
+	BLIP_TOWN_UNDERATTACK_GREEN,
 	BLIP_TOWN_SAFE,
 	BLIP_RED_X,
-	BLIP_B_QUESTION_MARK,
+	BLIP_TOWN_UNKNOWN,
 	BLIP_NORTHARROW = 572
 };
 ```
