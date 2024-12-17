@@ -14,8 +14,9 @@
 ## Enum
 
 ```cpp
-enum eAmmoType
+enum eAmmoEnum
 {
+	AMMO_INVALID = -1,
 	AMMO_TURRET = 1,
 	AMMO_CANNON,
 	AMMO_THROWING_KNIFE,
