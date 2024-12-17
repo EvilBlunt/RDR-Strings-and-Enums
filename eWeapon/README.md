@@ -29,6 +29,7 @@
 ```cpp
 enum eWeaponEnum
 {
+	WEAPON_NONE = -1,
 	WEAPON_PISTOL_Volcanic,
 	WEAPON_PISTOL_SemiAuto,
 	WEAPON_PISTOL_HighPower,
