@@ -11,7 +11,7 @@
 | TEXT LABEL | OUTPUT || TEXT LABEL | OUTPUT |
 | :------------ | :------------ | :------------ | :------------ | :------------ |
 | OUT_cowboy | Cowboy Outfit || OUT_suit | Elegant Suit |
-| OUT_rebel | Reyes-Rebellen-Outfit || OUT_treasur | Treasure Hunter Outfit |
+| OUT_rebel | Reyes' Rebel Outfit || OUT_treasur | Treasure Hunter Outfit |
 | OUT_dnd | Walton's Gang Outfit || OUT_rustler | Bollard Twins Outfit |
 | OUT_bandito | Bandito Outfit || OUT_fbi | Bureau Uniform |
 | OUT_uslaw | US Marshal Uniform || OUT_military | US Army Uniform |
