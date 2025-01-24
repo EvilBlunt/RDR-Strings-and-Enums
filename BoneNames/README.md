@@ -2,8 +2,8 @@
 
 | Native | Hash |
 | :------------ | :------------: |
-| CORE::GET_OBJECT_NAMED_BONE_POSITION | 0x30516389 |
-| CORE::GET_OBJECT_NAMED_BONE_ORIENTATION | 0xCAD543AD |
+| OBJECT::GET_OBJECT_NAMED_BONE_POSITION | 0x30516389 |
+| OBJECT::GET_OBJECT_NAMED_BONE_ORIENTATION | 0xCAD543AD |
 
 ## Bone Names
 
@@ -98,6 +98,7 @@
 #define SKEL_P_upperlip_r "upperlip_r"
 #define SKEL_P_wrist_l "wrist_l"
 #define SKEL_P_wrist_r "wrist_r"
+#define SKEL_P_wristroll_l "wristroll_l"
 #define SKEL_P_wristroll_r "wristroll_r"
 #define SKEL_P_melee "melee"
 #define SKEL_P_pistol "pistol"
@@ -195,6 +196,7 @@
 #define SKEL_HM_string03_01_r "string03_01_r"
 #define SKEL_HM_string03_02_l "string03_02_l"
 #define SKEL_HM_string03_02_r "string03_02_r"
+#define SKEL_HM_string03_03_l "string03_03_l"
 #define SKEL_HM_string03_03_r "string03_03_r"
 #define SKEL_HM_tail_00 "tail_00"
 #define SKEL_HM_tail_l_01 "tail_l_01"
