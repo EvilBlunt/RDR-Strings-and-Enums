@@ -137,6 +137,90 @@
 | PROMPT_MINIGAME_LOOK_AROUND |  | ![LALT](https://imgur.com/u4YFYb8.png) |
 | PROMPT_MINIGAME_LOOK_AT_HAND | ![RTRIGGER](https://imgur.com/8fBZX5u.png) | ![LSHIFT](https://imgur.com/xaRSH4t.png) |
 | PROMPT_MINIGAME_LOOK_AT_DEALER | ![LTRIGGER](https://imgur.com/B32aDhG.png) | ![E](https://imgur.com/51oVmKd.png) |
+| PROMPT_VKB_ARROW_UP | | ![Arrow_Up](https://imgur.com/XGZcdO6.png) |
+| PROMPT_VKB_ARROW_DOWN | | ![Arrow_Down](https://imgur.com/xQ2pr13.png) |
+| PROMPT_VKB_ARROW_LEFT | | ![Arrow_Left](https://imgur.com/wXlc9Q3.png) |
+| PROMPT_VKB_ARROW_RIGHT | | ![Arrow_Right](https://imgur.com/tyQGf6T.png) |
+| PROMPT_VKB_BACKSPACE | | ![Backspace](https://imgur.com/u4FKal0.png) |
+| PROMPT_VKB_CAPS | | ![Caps](https://imgur.com/Wf0DghP.png) |
+| PROMPT_VKB_CHEVRON_LEFT | | ![chevron_left](https://imgur.com/SebVtfF.png) |
+| PROMPT_VKB_CHEVRON_RIGHT | | ![chevron_right](https://imgur.com/jLyFMSL.png) |
+| PROMPT_VKB_DELETE | | ![Delete](https://imgur.com/wgWzgi2.png) |
+| PROMPT_VKB_END | | ![End](https://imgur.com/2GC7ttj.png) |
+| PROMPT_VKB_ENTER | | ![Enter](https://imgur.com/mheU3l1.png) |
+| PROMPT_VKB_ESCAPE | | ![Escape](https://imgur.com/dGSRbDM.png) |
+| PROMPT_VKB_F1 | | ![F1](https://imgur.com/XBvfPAn.png) |
+| PROMPT_VKB_F2 | | ![F2](https://imgur.com/WvNDOoY.png) |
+| PROMPT_VKB_F3 | | ![F3](https://imgur.com/y033vcB.png) |
+| PROMPT_VKB_F4 | | ![F4](https://imgur.com/IecB53Y.png) |
+| PROMPT_VKB_F5 | | ![F5](https://imgur.com/M33K8Pm.png) |
+| PROMPT_VKB_F6 | | ![F6](https://imgur.com/VYXiyPR.png) |
+| PROMPT_VKB_F7 | | ![F7](https://imgur.com/lN7cCoF.png) |
+| PROMPT_VKB_F8 | | ![F8](https://imgur.com/yQpq2NY.png) |
+| PROMPT_VKB_F9 | | ![F9](https://imgur.com/72KBJ2B.png) |
+| PROMPT_VKB_F10 | | ![F10](https://imgur.com/K4T0Qx5.png) |
+| PROMPT_VKB_F11 | | ![F11](https://imgur.com/qej8Zqs.png) |
+| PROMPT_VKB_F12 | | ![F12](https://imgur.com/dlDxKqh.png) |
+| PROMPT_VKB_F13 | | ![F13](https://imgur.com/3cGwRpk.png) |
+| PROMPT_VKB_F14 | | ![F14](https://imgur.com/AiCOMZl.png) |
+| PROMPT_VKB_F15 | | ![F15](https://imgur.com/odC5o6g.png) |
+| PROMPT_VKB_HOME | | ![Home](https://imgur.com/Td7RytJ.png) |
+| PROMPT_VKB_INDENT_SPACER | | |
+| PROMPT_VKB_INSERT | | ![Insert](https://imgur.com/nqNOgfx.png) |
+| PROMPT_VKB_KEY_TYPE1 | | ![Key_Type1](https://imgur.com/AtqZpGD.png) |
+| PROMPT_VKB_KEY_TYPE2 | | ![Key_Type2](https://imgur.com/cU38eEd.png) |
+| PROMPT_VKB_L_ALT | | ![L_Alt](https://imgur.com/u4YFYb8.png) |
+| PROMPT_VKB_R_ALT | | ![R_Alt](https://imgur.com/ybaRxtX.png) |
+| PROMPT_VKB_L_CTRL | | ![L_CTRL](https://imgur.com/PPkge6g.png) |
+| PROMPT_VKB_R_CTRL | | ![R_CTRL](https://imgur.com/nZc6PrH.png) |
+| PROMPT_VKB_L_SHIFT | | ![L_Shift](https://imgur.com/xaRSH4t.png) |
+| PROMPT_VKB_R_SHIFT | | ![R_Shift](https://imgur.com/vd2n1W3.png) |
+| PROMPT_VKB_LEFT_BUTTON | | ![Left_Button](https://imgur.com/aQ7tPx4.png) |
+| PROMPT_VKB_RIGHT_BUTTON | | ![Right_Button](https://imgur.com/Unt19bP.png) |
+| PROMPT_VKB_MIDDLE_BUTTON | | ![Middle_Button](https://imgur.com/knSdcDh.png) |
+| PROMPT_VKB_LOCK | | ![Lock](https://imgur.com/vM2lZ2H.png) |
+| PROMPT_VKB_MOUSE_4TH_BUTTON | | ![Mouse_4th_Button](https://imgur.com/XOwBJWO.png) |
+| PROMPT_VKB_MOUSE_5TH_BUTTON | | ![Mouse_5th_Button](https://imgur.com/flXRyFL.png) |
+| PROMPT_VKB_MOUSE_6TH_BUTTON | | ![Mouse_6th_Button](https://imgur.com/uWmjMP7.png) |
+| PROMPT_VKB_MOUSE_7TH_BUTTON | | ![Mouse_7th_Button](https://imgur.com/qbnTWt4.png) |
+| PROMPT_VKB_MOUSE_8TH_BUTTON | | ![Mouse_8th_Button](https://imgur.com/l5tzQXA.png) |
+| PROMPT_VKB_MOVE_UP | | ![Move_Up](https://imgur.com/su3k5jY.png) |
+| PROMPT_VKB_MOVE_DOWN | | ![Move_Down](https://imgur.com/vwFvTiW.png) |
+| PROMPT_VKB_MOVE_LEFT | | ![Move_Left](https://imgur.com/SL3aeo5.png) |
+| PROMPT_VKB_MOVE_RIGHT | | ![Move_Right](https://imgur.com/mP8gXSY.png) |
+| PROMPT_VKB_MOVE_UP_DOWN | | ![Move_Up_Down](https://imgur.com/4g4PUav.png) |
+| PROMPT_VKB_MOVE_LEFT_RIGHT | | ![Move_Left_Right](https://imgur.com/cUxMNev.png) |
+| PROMPT_VKB_MOVE_ALL_DIRECTIONS | | ![Move_All_Directions](https://imgur.com/hx5D2io.png) |
+| PROMPT_VKB_NUM_0 | | ![Num_0](https://imgur.com/Sryo3UV.png) |
+| PROMPT_VKB_NUM_1 | | ![Num_1](https://imgur.com/rnle4wh.png) |
+| PROMPT_VKB_NUM_2 | | ![Num_2](https://imgur.com/esAQmsM.png) |
+| PROMPT_VKB_NUM_3 | | ![Num_3](https://imgur.com/nQxfKUZ.png) |
+| PROMPT_VKB_NUM_4 | | ![Num_4](https://imgur.com/z7BSnVn.png) |
+| PROMPT_VKB_NUM_5 | | ![Num_5](https://imgur.com/eblFVc9.png) |
+| PROMPT_VKB_NUM_6 | | ![Num_6](https://imgur.com/aj6Us4K.png) |
+| PROMPT_VKB_NUM_7 | | ![Num_7](https://imgur.com/DtoGVK8.png) |
+| PROMPT_VKB_NUM_8 | | ![Num_8](https://imgur.com/YHersaJ.png) |
+| PROMPT_VKB_NUM_9 | | ![Num_9](https://imgur.com/NZbmpHC.png) |
+| PROMPT_VKB_NUM_COMMA | | ![Num_Comma](https://imgur.com/58cZtxc.png) |
+| PROMPT_VKB_NUM_DECIMAL | | ![Num_Decimal](https://imgur.com/GYkl7Un.png) |
+| PROMPT_VKB_NUM_ENTER | | ![Num_Enter](https://imgur.com/WudtZO2.png) |
+| PROMPT_VKB_NUM_EQUALS | | ![Num_Equals](https://imgur.com/v0xw598.png) |
+| PROMPT_VKB_NUM_LOCK | | ![Num_Lock](https://imgur.com/MtzRdfK.png) |
+| PROMPT_VKB_NUM_DIVIDE | | ![Num_Divide](https://imgur.com/mTPfk4x.png) |
+| PROMPT_VKB_NUM_MULTIPLY | | ![Num_Multiply](https://imgur.com/J8AdWcx.png) |
+| PROMPT_VKB_NUM_MINUS | | ![Num_Minus](https://imgur.com/HYwUIMj.png) |
+| PROMPT_VKB_NUM_PLUS | | ![Num_Plus](https://imgur.com/n0R6zzG.png) |
+| PROMPT_VKB_PAGE_UP | | ![Page_Up](https://imgur.com/NAzDj3G.png) |
+| PROMPT_VKB_PAGE_DOWN | | ![Page_Down](https://imgur.com/VcVu3cm.png) |
+| PROMPT_VKB_PAUSE | | ![Pause](https://imgur.com/4uJQmUL.png) |
+| PROMPT_VKB_PROMPT_ERROR | | ![Prompt_Error](https://imgur.com/JUd8mHF.png) |
+| PROMPT_VKB_PRT_SCR | | ![Prt_Scr](https://imgur.com/8mltFxF.png) |
+| PROMPT_VKB_SCROLL_LOCK | | ![Scroll_Lock](https://imgur.com/qnbImlg.png) |
+| PROMPT_VKB_SPACE | | ![Space](https://imgur.com/GXImT6Z.png) |
+| PROMPT_VKB_TAB | | ![Tab](https://imgur.com/Wm7nhET.png) |
+| PROMPT_VKB_WHEEL_UP | | ![Wheel_Up](https://imgur.com/DlESthY.png) |
+| PROMPT_VKB_WHEEL_DOWN | | ![Wheel_Down](https://imgur.com/VDXrznb.png) |
+| PROMPT_VKB_WHEEL_UP_DOWN | | ![Wheel_Up_Down](https://imgur.com/G0wboQ9.png) |
 
 ## Icon Strings
 
@@ -271,5 +355,90 @@
 #define PROMPT_MINIGAME_LOOK_AROUND "{@MINIGAME.LOOK_AROUND}" // "BLANK" - "LALT"
 #define PROMPT_MINIGAME_LOOK_AT_HAND "{@MINIGAME.LOOK_AT_HAND}" // "RTRIGGER" - "LSHIFT"
 #define PROMPT_MINIGAME_LOOK_AT_DEALER "{@MINIGAME.LOOK_AT_DEALER}" // "LTRIGGER" - "E"
+// Keyboard Icons Only
+#define PROMPT_VKB_ARROW_UP = "{Arrow_Up}";
+#define PROMPT_VKB_ARROW_DOWN = "{Arrow_Down}";
+#define PROMPT_VKB_ARROW_LEFT = "{Arrow_Left}";
+#define PROMPT_VKB_ARROW_RIGHT = "{Arrow_Right}";
+#define PROMPT_VKB_BACKSPACE = "{Backspace}";
+#define PROMPT_VKB_CAPS = "{Caps}";
+#define PROMPT_VKB_CHEVRON_LEFT = "{chevron_left}";
+#define PROMPT_VKB_CHEVRON_RIGHT = "{chevron_right}";
+#define PROMPT_VKB_DELETE = "{Delete}";
+#define PROMPT_VKB_END = "{End}";
+#define PROMPT_VKB_ENTER = "{Enter}";
+#define PROMPT_VKB_ESCAPE = "{Escape}";
+#define PROMPT_VKB_F1 = "{F1}";
+#define PROMPT_VKB_F2 = "{F2}";
+#define PROMPT_VKB_F3 = "{F3}";
+#define PROMPT_VKB_F4 = "{F4}";
+#define PROMPT_VKB_F5 = "{F5}";
+#define PROMPT_VKB_F6 = "{F6}";
+#define PROMPT_VKB_F7 = "{F7}";
+#define PROMPT_VKB_F8 = "{F8}";
+#define PROMPT_VKB_F9 = "{F9}";
+#define PROMPT_VKB_F10 = "{F10}";
+#define PROMPT_VKB_F11 = "{F11}";
+#define PROMPT_VKB_F12 = "{F12}";
+#define PROMPT_VKB_F13 = "{F13}";
+#define PROMPT_VKB_F14 = "{F14}";
+#define PROMPT_VKB_F15 = "{F15}";
+#define PROMPT_VKB_HOME = "{Home}";
+#define PROMPT_VKB_INDENT_SPACER = "{Indent_Spacer}";
+#define PROMPT_VKB_INSERT = "{Insert}";
+#define PROMPT_VKB_KEY_TYPE1 = "{Key_Type1}";
+#define PROMPT_VKB_KEY_TYPE2 = "{Key_Type2}";
+#define PROMPT_VKB_L_ALT = "{L_Alt}";
+#define PROMPT_VKB_R_ALT = "{R_Alt}";
+#define PROMPT_VKB_L_CTRL = "{L_CTRL}";
+#define PROMPT_VKB_R_CTRL = "{R_CTRL}";
+#define PROMPT_VKB_L_SHIFT = "{L_Shift}";
+#define PROMPT_VKB_R_SHIFT = "{R_Shift}";
+#define PROMPT_VKB_LEFT_BUTTON = "{Left_Button}";
+#define PROMPT_VKB_RIGHT_BUTTON = "{Right_Button}";
+#define PROMPT_VKB_MIDDLE_BUTTON = "{Middle_Button}";
+#define PROMPT_VKB_LOCK = "{Lock}";
+#define PROMPT_VKB_MOUSE_4TH_BUTTON = "{Mouse_4th_Button}";
+#define PROMPT_VKB_MOUSE_5TH_BUTTON = "{Mouse_5th_Button}";
+#define PROMPT_VKB_MOUSE_6TH_BUTTON = "{Mouse_6th_Button}";
+#define PROMPT_VKB_MOUSE_7TH_BUTTON = "{Mouse_7th_Button}";
+#define PROMPT_VKB_MOUSE_8TH_BUTTON = "{Mouse_8th_Button}";
+#define PROMPT_VKB_MOVE_UP = "{Move_Up}";
+#define PROMPT_VKB_MOVE_DOWN = "{Move_Down}";
+#define PROMPT_VKB_MOVE_LEFT = "{Move_Left}";
+#define PROMPT_VKB_MOVE_RIGHT = "{Move_Right}";
+#define PROMPT_VKB_MOVE_UP_DOWN = "{Move_Up_Down}";
+#define PROMPT_VKB_MOVE_LEFT_RIGHT = "{Move_Left_Right}";
+#define PROMPT_VKB_MOVE_ALL_DIRECTIONS = "{Move_All_Directions}";
+#define PROMPT_VKB_NUM_0 = "{Num_0}";
+#define PROMPT_VKB_NUM_1 = "{Num_1}";
+#define PROMPT_VKB_NUM_2 = "{Num_2}";
+#define PROMPT_VKB_NUM_3 = "{Num_3}";
+#define PROMPT_VKB_NUM_4 = "{Num_4}";
+#define PROMPT_VKB_NUM_5 = "{Num_5}";
+#define PROMPT_VKB_NUM_6 = "{Num_6}";
+#define PROMPT_VKB_NUM_7 = "{Num_7}";
+#define PROMPT_VKB_NUM_8 = "{Num_8}";
+#define PROMPT_VKB_NUM_9 = "{Num_9}";
+#define PROMPT_VKB_NUM_COMMA = "{Num_Comma}";
+#define PROMPT_VKB_NUM_DECIMAL = "{Num_Decimal}";
+#define PROMPT_VKB_NUM_ENTER = "{Num_Enter}";
+#define PROMPT_VKB_NUM_EQUALS = "{Num_Equals}";
+#define PROMPT_VKB_NUM_LOCK = "{Num_Lock}";
+#define PROMPT_VKB_NUM_DIVIDE = "{Num_Divide}";
+#define PROMPT_VKB_NUM_MULTIPLY = "{Num_Multiply}";
+#define PROMPT_VKB_NUM_MINUS = "{Num_Minus}";
+#define PROMPT_VKB_NUM_PLUS = "{Num_Plus}";
+#define PROMPT_VKB_PAGE_UP = "{Page_Up}";
+#define PROMPT_VKB_PAGE_DOWN = "{Page_Down}";
+#define PROMPT_VKB_PAUSE = "{Pause}";
+#define PROMPT_VKB_PROMPT_ERROR = "{Prompt_Error}";
+#define PROMPT_VKB_PRT_SCR = "{Prt_Scr}";
+#define PROMPT_VKB_SCROLL_LOCK = "{Scroll_Lock}";
+#define PROMPT_VKB_SPACE = "{Space}";
+#define PROMPT_VKB_TAB = "{Tab}";
+#define PROMPT_VKB_WHEEL_UP = "{Wheel_Up}";
+#define PROMPT_VKB_WHEEL_DOWN = "{Wheel_Down}";
+#define PROMPT_VKB_WHEEL_UP_DOWN = "{Wheel_Up_Down}";
 #pragma endregion
 ```
